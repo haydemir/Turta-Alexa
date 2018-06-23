@@ -1,6 +1,8 @@
 # Turta-Alexa
 
-Welcome to Turta-Alexa Skill.
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
+## Welcome to Turta-Alexa Skill.
 With this capability you will have chance to control your turta family with your voice over Alexa.
 
 Here are the steps.
@@ -15,7 +17,9 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 3- Go to Alexa App, download Turta App and register with your device.
 
 4- Run your code with your e-mail 
+```
   python_turta.py -e "email"
+  
   
   
 

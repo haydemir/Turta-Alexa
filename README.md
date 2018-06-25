@@ -31,4 +31,4 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 
 4- Run your code with your e-mail 
 ```
-  python_turta.py -e "email" ``` 
+  python_turta.py -e "email" 

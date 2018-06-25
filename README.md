@@ -1,6 +1,7 @@
 # Turta-Alexa
 
 [![Python 3.6](https://img.shields.io/pypi/v/python-symphony.svg)](https://www.python.org/downloads/release/python-360/)
+![MIT](https://img.shields.io/pypi/l/ansicolortags.svg)
 
 ## Welcome to Turta-Alexa Skill.
 

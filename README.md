@@ -43,3 +43,11 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 4- Run your code with your e-mail 
 ```
   python_turta.py -e "email" 
+  ```
+  
+  ### Turta is ready for Alexa commands
+    Alexa commands
+  
+  To activate turta: Alexa, open voice of Turta
+  To on/off relays: Alexa, turn off/on relay 1/2
+  To get temperature: Alexa, what is temperature?

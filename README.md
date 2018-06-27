@@ -26,6 +26,16 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 
 2- After you get your certificates from your e-mail, download this repository and copy certificates to the directory you will run python_turta.py
 
+  ## Directory structure should be like this
+       -Adafruit_BME280.py
+       -Adafruit_GPIO
+       -python_alexa.py
+       -turta_py.py
+       -turta_mqtt_ca.crt
+       -xxx.crt
+       -xxx.key
+       -README.md
+      
 3- Go to Alexa App, download Turta Skill App and register with your device.
 
 ### Running 

@@ -53,4 +53,11 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
   To on/off relays: Alexa, turn off/on relay 1/2
   
   To get temperature: Alexa, what is temperature?
+  
+  Or
+  to command Turta directly
+  
+  Alexa, ask turta turn off/on relay 1/2
+  
+  Alexa, ask turta what is temperature?
   ```

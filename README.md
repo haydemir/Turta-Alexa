@@ -9,10 +9,6 @@
 
 With this capability you will have chance to control your turta family with your voice over Alexa.
 
-### Prerequisites
-```
-https://github.com/adafruit/Adafruit_Python_BME280
-```
 
 ### Installing
 
@@ -32,6 +28,7 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
        -python_alexa.py
        -turta_py.py
        -turta_mqtt_ca.crt
+       -python_alexa_test.py
        -xxx.crt
        -xxx.key
        -README.md
@@ -40,10 +37,15 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 
 ### Running 
 
-4- Run your code with your e-mail 
+4- Run your code with your e-mail on raspberry as Turta equipped
 ```
   python_turta.py -e "email" 
+  
+  if you want to test code and connection without raspberry pi
+  use python_turta_test.py -e "email"
+  and then say commands to alexa and observer console logs
   ```
+  
   
   ### Turta is ready for Alexa commands
     Alexa commands

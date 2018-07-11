@@ -53,10 +53,10 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
 
 4- Run your code with your e-mail on raspberry as Turta equipped
 ```
-  python_turta.py -e "email" 
+  python python_turta.py -e "email" 
   
   if you want to test code and connection without raspberry pi
-  use python_turta_test.py -e "email"
+  use python python_turta_test.py -e "email"
   and then say commands to alexa and observer console logs
   ```
   
@@ -64,16 +64,16 @@ Turta-Alexa just uses your Amazon e-mail as "username" to reach your turta devic
   ### Turta is ready for Alexa commands
     Alexa commands
   ```
-  To activate turta: Alexa, open voice of Turta
+  To activate turta: Alexa, open Turta
   
-  To on/off relays: Alexa, turn off/on relay 1/2
+  To on/off relays: Alexa, turn off/on relay one/two
   
   To get temperature: Alexa, what is temperature?
   
   Or
   to command Turta directly
   
-  Alexa, ask turta turn off/on relay 1/2
+  Alexa, ask turta turn off/on relay one/two
   
   Alexa, ask turta what is temperature?
   ```

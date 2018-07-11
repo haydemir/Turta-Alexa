@@ -9,6 +9,19 @@
 
 With this capability you will have chance to control your turta family with your voice over Alexa.
 
+## Prerequisites
+
+Install Paho-mqtt for python 2
+
+```
+pip install paho-mqtt
+```
+And if you need install RPi.GPIO
+
+```
+sudo apt-get update
+sudo apt-get -y install python-rpi.gpio
+```
 
 ### Installing
 

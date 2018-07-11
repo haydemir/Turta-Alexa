@@ -8,6 +8,7 @@
 ## Getting Started
 
 With this capability you will have chance to control your turta family with your voice over Alexa.
+For detailed information about Turta family : https://www.turta.io
 
 ## Prerequisites
 
